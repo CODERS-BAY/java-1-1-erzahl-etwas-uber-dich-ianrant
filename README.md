@@ -8,6 +8,8 @@ Deklariere Variablen für dein Alter, deinen Vornamen, dein Geschlecht, deinen N
 
 Gib alle Variablen mit `System.out.println` auf der Konsole aus. 
 
+------------------------------------------------------------
+
 # Java 
 
 ## Variables and Datatypes
